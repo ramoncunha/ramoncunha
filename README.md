@@ -1,4 +1,10 @@
-### Hi there 👋 Welcome!
+### Hi there 👋  Welcome!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramoncunha/)](https://www.linkedin.com/in/ramoncunha/)
+
+## My name is Ramon
+
+
 
 <!--
 **ramoncunha/ramoncunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
