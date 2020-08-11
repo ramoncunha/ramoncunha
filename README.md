@@ -1,10 +1,12 @@
-### Hi there 👋  Welcome!
+## Hi there 👋  Welcome!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramoncunha/)](https://www.linkedin.com/in/ramoncunha/)
 
-## My name is Ramon
+### I'm Ramon! 
 
-
+- 💼 Working as full stack developer at Afferolab
+- 🚀 My stack is basically Java. I also known a bit of C#, JavaScript, Python.
+- 🌱 I'm currently learning about Spring Framework.
 
 <!--
 **ramoncunha/ramoncunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
