@@ -4,7 +4,7 @@
 
 ### I'm Ramon! 
 
-- 💼 Working as full stack developer at Afferolab
+- 💼 Working as full stack developer at Inter, the best digital bank in Brazil.
 - 🚀 My stack is basically Java. I also known a bit of C#, JavaScript, Python.
 - 🌱 I'm currently learning about Spring Framework.
 
