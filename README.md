@@ -4,9 +4,8 @@
 
 ### I'm Ramon! 
 
-- 💼 Working as Java developer at Inter, the best digital bank in Brazil.
+- 💼 Working as Java developer at Inter.
 - 🚀 My stack is basically Java. I also known a bit of C#, JavaScript, Python.
-- 🌱 I'm currently learning about Spring Framework.
 - Checkout my blog [here](https://ramoncunha.netlify.app/).
 <!--
 **ramoncunha/ramoncunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
