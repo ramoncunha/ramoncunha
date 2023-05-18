@@ -4,8 +4,8 @@
 
 ### I'm Ramon! 
 
-- 💼 Working as Java developer at Inter.
-- 🚀 My stack is basically Java. I also known a bit of C#, JavaScript, Python.
+- 💼 Working as Back-end Developer at Inter.
+- 🚀 My stack is basically Java. I also known a bit of Kotlin, JavaScript, Python.
 - Checkout my blog [here](https://ramoncunha.netlify.app/).
 <!--
 **ramoncunha/ramoncunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
