@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/ramoncunha"><img align="right" src="https://api.daily.dev/devcards/d14c5d4379aa442e91f35ae906dc56db.png?r=1t6" width="300" alt="Ramon Cunha's Dev Card"/></a>
+
 ## Hi there 👋  Welcome!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramoncunha/)](https://www.linkedin.com/in/ramoncunha/)
