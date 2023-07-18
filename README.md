@@ -4,11 +4,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramoncunha/)](https://www.linkedin.com/in/ramoncunha/)
 
-### I'm Ramon! 
+### ✨ I'm Ramon! ✨
 
-- 💼 Working as Back-end Developer at Inter.
-- 🚀 My stack is basically Java. I also known a bit of Kotlin, JavaScript, Python.
-- Checkout my blog [here](https://ramoncunha.netlify.app/).
+- 💼 Working as Software Developer, specialize in Back-end Development at Inter.
+- 🚀 My stack is Java, Micronaut, Spring Boot, PostgreSQL, AWS, Kafka and Kubernetes.
+- 📫 Reach me out at LinkedIn and checkout my blog [here](https://ramoncunha.netlify.app/).
+- 🌱 I’m currently learning Node.js and Go.
+
 <!--
 **ramoncunha/ramoncunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
