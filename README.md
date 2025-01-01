@@ -37,7 +37,7 @@ public class MyProfile {
 
 ### ✨ I'm Ramon! ✨
 
-- 💼 Working as Software Engineer, specialize in Back-end Development at Inter&Co.
+- 💼 Working as Software Engineer, specialize in Back-end Development.
 - 🚀 My stack is Java, Micronaut, Spring Boot, PostgreSQL, AWS, Kafka and Kubernetes.
-- 📫 Reach me out at LinkedIn and checkout my blog [here](https://ramoncunha.netlify.app/).
-- 🌱 I’m currently learning Node.js and Go.
+- 📫 Reach me out at LinkedIn.
+- 🌱 I’m currently learning Node.js.
